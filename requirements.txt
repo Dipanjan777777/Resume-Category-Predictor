@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+python-docx
+PyPDF2
+pickle-mixin
+ipykernel
+jupyter
+plotly
+openpyxl
